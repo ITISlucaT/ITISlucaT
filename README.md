@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luca from ITIS M.Delpozzo, Cuneo
 - 👀 I’m interested in back-end development and web development
-- 🌱 I’m currently learning Java, Python and JS
+- 🌱 I’m currently learning Python, PHP, React and Node.js
 - 📫 How to reach me: luca.torelli@itiscuneo.eu
 
 <!---
